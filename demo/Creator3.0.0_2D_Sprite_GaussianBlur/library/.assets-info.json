@@ -1,0 +1,106 @@
+{
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\GaussianBlurV1.scene.meta": {
+    "time": 1706169903286.1548
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res.meta": {
+    "time": 1706169903286.1548
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader.meta": {
+    "time": 1706169903403.553
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.effect.meta": {
+    "time": 1706169903403.553
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.mtl.meta": {
+    "time": 1706169903403.553
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\script.meta": {
+    "time": 1706169903404.5493
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\script\\GaussianBlur.ts.meta": {
+    "time": 1706169903404.5493
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\ball_0.png.meta": {
+    "time": 1706169903286.1548
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\ball_1.png.meta": {
+    "time": 1706169903286.1548
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\bg.png.meta": {
+    "time": 1706169903401.5571
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\cocos_logo.png.meta": {
+    "time": 1706169903402.555
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\gaussian_blur.png.meta": {
+    "time": 1706169903403.553
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\video_btn.png.meta": {
+    "time": 1706169903404.5493
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res": {
+    "time": 1706169903404.5493,
+    "uuid": "681e1a05-05d6-4622-a694-265d3c91afe0",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader": {
+    "time": 1706169903403.553,
+    "uuid": "b13e284c-7963-4710-b394-7f9f91bc9ff9",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\script": {
+    "time": 1706169903404.5493,
+    "uuid": "1524bd79-a3b3-4cc5-b962-cfdd8d22b3ea",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\script\\GaussianBlur.ts": {
+    "time": 1706234499887.2722,
+    "uuid": "218702d3-2dad-46a2-b76a-0674ee174815",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.effect": {
+    "time": 1706169903403.553,
+    "uuid": "73ccf79f-d9a2-47db-8656-61da5abdfd37",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.mtl": {
+    "time": 1706169903403.553,
+    "uuid": "66c1a878-d48e-4d9a-8483-5e314a32ec0b",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\GaussianBlurV1.scene": {
+    "time": 1706234505605.1936,
+    "uuid": "383d011e-4465-4eab-814a-611bd959e29e",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\ball_0.png": {
+    "time": 1706169903286.1548,
+    "uuid": "c996c862-3d09-4bc6-915d-e8a8e7226933",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\bg.png": {
+    "time": 1706169903401.5571,
+    "uuid": "a8027877-d8d6-4645-97a0-52d4a0123dba",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\ball_1.png": {
+    "time": 1706169903286.1548,
+    "uuid": "bdfd3151-8c13-406b-8f94-1f101c972e7e",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\cocos_logo.png": {
+    "time": 1706169903402.555,
+    "uuid": "25e23df8-f49b-4c08-869c-99a972751248",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\video_btn.png": {
+    "time": 1706169903403.553,
+    "uuid": "2453b01d-4364-4d87-ab53-391d1a42d07d",
+    "missing": false
+  },
+  "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\gaussian_blur.png": {
+    "time": 1706169903403.553,
+    "uuid": "c879710d-0419-46be-bf96-92ee1ca52324",
+    "missing": false
+  }
+}

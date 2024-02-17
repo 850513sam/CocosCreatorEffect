@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "video_btn",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 4,
+      "width": 50,
+      "height": 50
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 60,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2453b01d-4364-4d87-ab53-391d1a42d07d@6c48a",
+    "packable": true
+  }
+}

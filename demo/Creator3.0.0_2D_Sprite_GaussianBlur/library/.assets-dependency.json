@@ -1,0 +1,23 @@
+{
+  "path": {
+    "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\embedded-alpha.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.0.0\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\alpha-test.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\cc-global.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\cc-local.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\embedded-alpha.chunk",
+      "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\chunks\\alpha-test.chunk"
+    ]
+  },
+  "uuid": {
+    "D:\\SharderTest\\demo\\Creator3.0.0_2D_Sprite_GaussianBlur\\assets\\res\\shader\\gaussian.mtl": [
+      "73ccf79f-d9a2-47db-8656-61da5abdfd37"
+    ]
+  }
+}
